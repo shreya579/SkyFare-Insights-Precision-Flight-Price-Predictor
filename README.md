@@ -98,7 +98,7 @@ plt.show()
 - All notebook plots use a black/dark theme and consistent color palette for presentation quality.
 - Visuals included in the notebook: distribution plots, ordered boxplots, monthly/weekday/hourly trends, correlation heatmaps, pairplots, Actual vs Predicted, and residual diagnostics.
 - Example (Price Distribution Plot):
-![Price_Distribution_Plot](Price-Distribution-Plot.jpg)
+![Price_Distribution_Plot](Price-Distribution-Plot.png)
 
 ---
 
