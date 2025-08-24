@@ -1,5 +1,7 @@
 # SkyFare Insights — Precision Flight Price Predictor
 
+![Flight_Wallpaper](flight_wallpaper.jpg)
+
 **A production-ready, end-to-end machine learning project to predict flight ticket prices using feature engineering, advanced EDA, and ensemble models (Random Forest, Gradient Boosting, XGBoost).**
 
 ---
@@ -95,6 +97,8 @@ plt.show()
 ## Visualizations
 - All notebook plots use a black/dark theme and consistent color palette for presentation quality.
 - Visuals included in the notebook: distribution plots, ordered boxplots, monthly/weekday/hourly trends, correlation heatmaps, pairplots, Actual vs Predicted, and residual diagnostics.
+- Example (Price Distribution Plot):
+![Price_Distribution_Plot](Price-Distribution-Plot.jpg)
 
 ---
 
